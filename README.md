@@ -10,7 +10,7 @@
 
 <br />
 
-Hi, I'm Badineni Sai Vardhan, currently working as Automation Engineer in HCL Technologies, India. I enjoy understanding the complex things and always love to make than Simple. #KEEPITSIMPLE 
+Hi, I'm Badineni Sai Vardhan, currently working as Automation Engineer in HCL Technologies, India. I enjoy understanding the complex things and always love to make them Simple. #KEEPITSIMPLE 
 
   
 - 💼 Any freelance work / Ideas ? Do reach, [email](mailto:badinenisaivardhan@gmail.com) :)
