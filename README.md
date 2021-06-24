@@ -12,7 +12,6 @@
 
 Hi, I'm Badineni Sai Vardhan, currently working as Automation Engineer in HCL Technologies, India. I enjoy understanding the complex things and always love to make than Simple. #KEEPITSIMPLE 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="260" />
   
 - 💼 Any freelance work / Ideas ? Do reach, [email](mailto:badinenisaivardhan@gmail.com) :)
 
