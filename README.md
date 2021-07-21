@@ -18,19 +18,14 @@ Hi, I'm Badineni Sai Vardhan, currently working as Automation Engineer in HCL Te
 
 **Languages and Tools:**  
 <img width="40" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/python.png">
-<img width="40" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/c.png">
 <img width="40" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/powershell.png">
 <img width="65" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/vmware.png">
-<img width="40" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/html.png">
-<img width="40" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/css.png">
-<img width="40" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/js.png">
 <img width="50" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/node-js.png">
 <img width="40" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/git.png">
 <img width="40" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/firebase.png">
 <img width="65" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/mysql.png">
 <img width="95" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/mongo-db.png">
-<img width="40" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/gcp.png">
-<img width="40" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/aws.jpg">
+
 
 📈 **My GitHub Stats:** 
 
