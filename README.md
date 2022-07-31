@@ -14,23 +14,3 @@ Hi, I'm Badineni Sai Vardhan, currently working as Automation Engineer in HCL Te
 
   
 - 💼 Any freelance work / Ideas ? Do reach, [email](mailto:badinenisaivardhan@gmail.com) :)
-
-
-**Languages and Tools:**  
-<img width="40" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/python.png">
-<img width="40" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/powershell.png">
-<img width="65" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/vmware.png">
-<img width="50" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/node-js.png">
-<img width="40" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/git.png">
-<img width="40" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/firebase.png">
-<img width="65" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/mysql.png">
-<img width="95" height="40" src="https://github.com/badinenisaivardhan/badinenisaivardhan/blob/main/logo/mongo-db.png">
-
-
-📈 **My GitHub Stats:** 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=badinenisaivardhan&show_icons=true&theme=gotham" alt="badinenisaivardhan" />
-
-
-
-
