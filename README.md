@@ -6,8 +6,6 @@
   <img align="left" alt="Sai Vardhan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=badinenisaivardhan.badinenisaivardhan)
-
 <br />
 
 Hi, I'm Badineni Sai Vardhan, currently working as Automation Engineer in HCL Technologies, India. I enjoy understanding the complex things and always love to make them Simple . #KEEPITSIMPLE 
